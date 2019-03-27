@@ -1,2 +1,4 @@
 # js_websocket
 JS客户端调用WebSocket服务端
+基于springboot实现的js客户端调用websocket服务端
+内容比较简单，单纯为了记录实现过程，为后续的即时通讯功能，开个道
